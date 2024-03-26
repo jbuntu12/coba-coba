@@ -1,0 +1,22 @@
+{
+  "name": "coba-coba-package",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "CB"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbuntu12/coba-coba.git"
+  },
+  "keywords": [
+    "CBC"
+  ],
+  "author": "ME",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbuntu12/coba-coba/issues"
+  },
+  "homepage": "https://github.com/jbuntu12/coba-coba#readme"
+}
